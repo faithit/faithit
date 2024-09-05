@@ -1,8 +1,8 @@
-- 👋 Hi, I’m faith 
+# 👋 Hi, I’m Faith!
  I’m a passionate software developer and lead trainer with extensive experience in various technologies. I enjoy teaching and mentoring others to excel in the tech world.
 
 
- ## technologies 
+ ## Technologies
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
