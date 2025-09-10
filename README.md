@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Faith!
+#  Hi, I’m Faith!
 
 I’m a passionate **Software Developer** and **Software Engineering Trainer** with hands-on experience in full-stack development, data science, mobile apps, and cloud platforms. I enjoy simplifying complex concepts and empowering others to thrive in the tech world through engaging, practical instruction.
 
