@@ -1,91 +1,125 @@
-#  Hi, I’m Faith!
+<h1 align="center">Hi 👋, I'm Faith</h1>
 
-I’m a passionate **Software Developer** and **Software Engineering Trainer** with hands-on experience in full-stack development, data science, mobile apps, and cloud platforms. I enjoy simplifying complex concepts and empowering others to thrive in the tech world through engaging, practical instruction.
+<p align="center">
+  <b>Software Developer • Software Engineering Trainer • DevOps & Cybersecurity Enthusiast</b>
+</p>
+
+<p align="center">
+  I build, teach, and simplify technology across Web, Mobile, AI, Cloud, DevOps, and Cybersecurity.
+</p>
 
 ---
 
-## 🚀 Technologies I Work With
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
 
 ### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🧠 Data, AI & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+---
 
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### 🧠 AI, Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ☁️ Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+---
 
-### 🛠 DevOps & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 Office & Productivity
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+---
+
+### 🔐 Cybersecurity
+<p>
+  🛡️ Secure Coding Practices  
+  🔐 Application Security Awareness  
+  🐧 Linux System Administration  
+  🌐 Network Fundamentals  
+  ⚠️ Threat Detection & Mitigation  
+</p>
 
 ---
 
 ## 💼 Experience
 
-As a dedicated **Software Engineering Trainer**, I specialize in transforming learners into job-ready professionals. I have had the opportunity to:
+### 👩‍🏫 Software Engineering Trainer
+I specialize in training students to become **job-ready developers** through hands-on learning.
 
-- 🎓 Lead immersive training sessions and tech bootcamps in:
-  - **Web Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Laravel, Django, PHP
-  - **Mobile Development**: Kotlin, Android (Jetpack Compose), Flutter, Firebase
-  - **Data Science & AI**: Python, R, Pandas, Jupyter, Scikit-learn, TensorFlow
-  - **Backend & Databases**: MySQL, PostgreSQL, SQLite, MongoDB
-  - **Cloud & DevOps**: AWS, Azure, Git, GitHub, Linux, Postman
+- 🌐 Full-Stack Development (HTML, CSS, JS, React, Laravel, Django)
+- 📱 Mobile Apps (Kotlin, Flutter, Jetpack Compose, Firebase)
+- 🧠 AI & Data Science (Python, Pandas, ML, TensorFlow)
+- ☁️ DevOps & Cloud (AWS, Azure, Git, GitHub, Jenkins)
+- 🔐 Cybersecurity fundamentals for developers
 
-- 📘 Design engaging curriculum and hands-on projects for both beginners and advanced learners.
-- 🤝 Mentor students toward career shifts, job placements, and certification success.
-- 💡 Foster real-world, project-based learning environments to build confidence and skill.
-
----
-
-## 📬 Contact Me
-
-- [LinkedIn](https://www.linkedin.com/in/faith-musyokae)
-- [Email](mailto:faithit@gmail.com)
+I also:
+- 📘 Design structured curricula & bootcamps  
+- 💡 Build real-world projects for students  
+- 🤝 Mentor learners into tech careers  
 
 ---
 
-## 🤝 Let's Connect!
+## 📈 GitHub Activity
 
-I’m always open to connecting with developers, trainers, and lifelong learners.  
-If you're looking to collaborate, share ideas, or just say hi — feel free to reach out. Let’s keep building, teaching, and inspiring together. 🚀
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/faith-musyoka">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:faithit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <i>"Teaching is the highest form of understanding. Building is how we learn it."</i>
+</p>
+
+---
+
+<p align="center">
+  🚀 Let's build, teach, and innovate together!
+</p>
