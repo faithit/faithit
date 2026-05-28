@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faith</h1>
+<h1 align="center">Hi, I'm Faith</h1>
 
 <p align="center">
   <b>Software Developer • Software Engineering Trainer • DevOps & Cybersecurity Enthusiast</b>
