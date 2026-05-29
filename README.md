@@ -17,9 +17,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faithit&theme=tokyonight" width="48%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithit&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+</p> -->
 
 ---
 
